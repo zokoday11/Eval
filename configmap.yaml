@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: prestashop-config
+data:
+  DB_NAME: supinfodb
+  nom: kane
+  prenom: abdoul
